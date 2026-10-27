@@ -1,4 +1,4 @@
 # T2T-CAM-exchange-CPN-Model
-Coloured Petri Net (CPN) model for simulation-based dependability and temporal safety analysis of Train-to-Train (T2T) communication in Virtual Coupling using CPN IDE software.
-Model: T2T CAM exchange between Master Train (MT) and Slave Train (ST).
-This work presents in the 6th International Conference on Reliability, Safety, and Security of Railway Systems - RSSRail 2026 Pisa, Italy.
+This repository contains a Coloured Petri Net (CPN) model developed using CPN IDE for simulation-based dependability and temporal safety analysis of Train-to-Train (T2T) communication in Virtual Coupling.
+The model represents the exchange of Cooperative Awareness Messages (CAMs) between a Master Train (MT) and a Slave Train (ST), including message transmission, reception, loss, and retransmission.
+This research was presented at the 6th International Conference on Reliability, Safety, and Security of Railway Systems (RSSRail 2026), Pisa, Italy.
